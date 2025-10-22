@@ -1,5 +1,11 @@
 # Projekt Programowanie Obiektowe – C++/Java
 
+## 🧩 Szczegóły projektu
+- **Imię i nazwisko studenta:** [Twoje imię i nazwisko]
+- **Numer identyfikacyjny studenta:** [Twój numer identyfikacyjny]
+- **Partner w zespole:** [Imię i nazwisko partnera w zespole]
+- **Tytuł projektu:** [Tytuł]  
+
 ## Opis projektu
 
 Ten projekt jest częścią kursu **Programowanie Obiektowe**. Celem jest zaprojektowanie i zaimplementowanie w pełni funkcjonalnej aplikacji w języku C++ albo Java z wykorzystaniem zasad programowania obiektowego (OOP).

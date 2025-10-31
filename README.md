@@ -1,10 +1,10 @@
 # Projekt Programowanie Obiektowe – C++/Java
 
 ## 🧩 Szczegóły projektu
-- **Imię i nazwisko studenta:** [Twoje imię i nazwisko]
-- **Numer identyfikacyjny studenta:** [Twój numer identyfikacyjny]
-- **Partner w zespole:** [Imię i nazwisko partnera w zespole]
-- **Tytuł projektu:** [Tytuł]  
+- **Imię i nazwisko studenta:** [Filip Obroślak]
+- **Numer identyfikacyjny studenta:** [164168]
+- **Partner w zespole:** [Brak]
+- **Tytuł projektu:** [System rezerwacji pokoji w hotelu]  
 
 ## Opis projektu
 
